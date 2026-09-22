@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Made By Marz", // required by Discord API, not shown in the client
-        state: "Playing",     // this is what people actually see
-        type: 0,               // Custom
+        state: "Streaming",     // this is what people actually see
+        type: 1,               // Custom
       },
     ],
   },
